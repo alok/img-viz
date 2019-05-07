@@ -1,0 +1,2 @@
+-   [ ] Use `ignore` crate to walk in parallel.
+-   [ ] Add benchmarking

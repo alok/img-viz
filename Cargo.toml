@@ -1,0 +1,12 @@
+[package]
+name = "img-viz"
+version = "0.1.0"
+authors = ["Alok Singh <alokbeniwal@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
+walkdir = "2"
+globset = "0"
+structopt = "0"
+# ignore = "0"
